@@ -1,0 +1,16 @@
+{
+    "name": "transformStringVars.ahk",
+    "version": "1.0.0",
+    "description": "converts a variable to whatever its value is (Example: \"this is a string with a %var% embedded\")",
+    "main": "app.ahk",
+    "scripts": {
+        "newinstall": "yarn install --modules-folder ./lib"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Chunjee/transformStringVars.ahk"
+    },
+    "dependencies": { },
+    "author": "uncredited",
+    "license": "MIT"
+}
